@@ -1,0 +1,10 @@
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+button {
+  display: block; /* Ensure it is not set to `display: none` */
+  margin: 10px; /* Add some margin for visibility */
+}
