@@ -7,21 +7,28 @@ Project 2 for Headstarter.ai Fellowship. It is also called an inventory manageme
 - Install Material-UI and Firebase.
 - Set up Firebase.
 - Create a Firebase configuration file.
+  
 ## Building your app
 - Create a new file 'page.js' under app directory. Once opened add initial code.
 - Add state management.
 - Implement inventory fetching.
 - Implement add and remove functions.
 - Add modal control functions.
+  
 ## Implementing the UI for our Inventory Management App
--Update return statement.
+Update return statement.
+
 ## Test Application
 - Type npm run dev in your terminal.
+  
 ## Potential Improvements and Deployment
 For this section, I added the following improvements:
 a. User Authentication
+
 b. Item Categories
+
 c. Search and Filter
+
 e. Item Details
 
 
