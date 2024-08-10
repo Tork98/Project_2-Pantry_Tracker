@@ -31,6 +31,9 @@ c. Search and Filter
 
 e. Item Details
 
+## To Login/participate in the app 
+I have created some usernames and test passwords please DM me at tork.hai@gmail.com if interested in testing this out.
+
 
 
 ## Acknowledgements
